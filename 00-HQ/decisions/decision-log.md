@@ -35,3 +35,12 @@ automation; recognize Higgsfield as a core AI tool and require complete coherent
 This is a recorded user implementation directive, not a fabricated cofounder commercial/creative approval.
 Generation, external upload, purchase, credit use and publication are expressly outside the authorized scope.
 Three initial briefs remain proposals. Product, cost, rights and release decisions still need evidence and approval.
+
+## Implementation directive - visual archive - 2026-10-08
+
+Source: user's Visual Asset Library & Local Creative Dashboard continuation. Authorized scope: build a local,
+read-only gallery and safe indexing/import workflow across existing canonical folders; preserve originals and Git.
+This records the implementation request, not a cofounder commercial approval. Existing Instagram activity, early
+organic stage and Costas design flexibility are founder reports without independent verification. Storytelling and
+community remain intended differentiators. Formal USP, retail price, manufacturing contract, paid marketing strategy,
+individual asset approvals and public publishing/spending remain unapproved.

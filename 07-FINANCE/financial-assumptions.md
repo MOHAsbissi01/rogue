@@ -4,9 +4,10 @@ Owner: Both cofounders (assignment pending)
 Approval status: PROPOSAL - awaiting founder review  
 Last reviewed: 2026-10-08
 
-All commercial inputs are UNKNOWN. No numeric scenario is labeled actual or approved. No sample monetary
-values are included. If illustrative scenarios are added later, prefix every relevant row and report with
-**SAMPLE DATA - NOT ROGUE ACTUALS** and keep them separate from decisions based on real inputs.
+Initial baseline: all commercial inputs were UNKNOWN and no sample monetary values were included.
+The 2026-10-08 manufacturing update adds a preliminary estimate and separately labeled illustrative scenarios.
+No numeric scenario is actual or approved. Every illustrative row/report must be labeled
+**SAMPLE DATA - NOT ROGUE ACTUALS** and kept separate from decisions based on real inputs.
 
 ## Input register requirements
 
@@ -35,3 +36,20 @@ Next action: fill source-backed costs first and leave results unavailable until 
 ## Related files
 
 [unit economics](unit-economics.md) | [price scenarios](price-scenarios.csv)
+
+## Dated input register - 2026-10-08
+
+| Input | Status | Source and limitation |
+| --- | --- | --- |
+| Supplier: Costas | FACT - founder supplied | Identity reported; no independent supplier verification |
+| Manufacturing estimate: 20-25 TND/unit | PRELIMINARY - final quote UNKNOWN | Founder update; quantity, validity and tax basis not established |
+| Cost coverage | UNKNOWN | Blank, graphics, embroidery, printing, packaging and transport not itemized |
+| No minimum quantity; very small orders accepted | FACT about founder report | Not independently verified contract terms or a price guarantee |
+| Landed product cost: 35 TND | SAMPLE DATA - NOT ROGUE ACTUALS | User-requested illustration; unrelated to a validated landed cost |
+| Retail options: 59 / 69 / 79 / 89 TND | PROVISIONAL SAMPLE DATA - NOT APPROVED | Candidate illustrations, not actual selling prices |
+| RG-H001 launch selection | UNKNOWN | Existing testing prototype may be replaced by another design |
+
+Sample rows assume one unit per order solely to compare displayed prices and illustrative product cost. Tax,
+discounts, delivery, fees, returns, damages and acquisition inputs remain blank, so net revenue, contribution,
+margin, break-even and maximum CAC are deliberately unavailable. Do not aggregate SAMPLE rows with real records.
+See [scenario explanation](illustrative-price-scenarios.md) and [quotation checklist](../10-OPERATIONS/supplier-quotation-checklist.md).

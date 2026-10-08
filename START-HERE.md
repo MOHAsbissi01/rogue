@@ -128,3 +128,23 @@ authorization. A completed local brief is not permission to generate, upload, sp
 Git state note, 2026-10-08 continuation: local inspection now shows existing Git history and a configured origin
 remote. The earlier empty-repository note describes initial setup. This extension preserves the current history
 and remote and performs no commit or push. Repository visibility and invite permissions were not checked online.
+
+## Browse and import visual assets
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\start-dashboard.ps1
+.\scripts\build-asset-gallery.ps1
+.\scripts\audit-workspace.ps1
+```
+
+The launcher builds the local index and opens http://127.0.0.1:8765/. Python 3 is required; no network or packages.
+Keep the terminal open and stop with Ctrl+C. Reload index in the browser after a rebuild. Do not double-click the
+HTML file or serve the whole repository with a generic server.
+
+Start with [the five hoodie intake instructions](12-ASSET-LIBRARY/import-workflow.md). Original filenames remain
+unchanged; display names are separate. Use import-assets.ps1 to register existing canonical media in place or
+explicitly copy an accessible source to a chosen canonical folder. Existing destinations and identical content are
+rejected. Edit review metadata in [asset-manifest.csv](12-ASSET-LIBRARY/asset-manifest.csv); edit owner/backup
+evidence in the existing operations register. An imported file is never automatically approved or published.
+
+See [dashboard requirements and limitations](dashboard/README.md) and [review checklist](12-ASSET-LIBRARY/media-rights-and-provenance.md).

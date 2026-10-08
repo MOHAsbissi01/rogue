@@ -36,3 +36,37 @@ purchase, credit use or publication performed. Executed technical checks are rec
 Extension validation: 30 onboarding/integration checks passed, all 87 requested tree entries exist, all 26 CSVs
 validated, 10 media/Git policy checks passed, and all seven PowerShell files parsed successfully. Existing Git
 history/remote were preserved; no commit or push was performed by this extension.
+
+## 2026-10-08 - Costas manufacturing clarification and prototype validation
+
+Recorded founder-supplied Costas identity, preliminary 20-25 TND/unit manufacturing estimate with unknown
+coverage, and founder-confirmed very-small-order/no-minimum policy without implying verified contract terms.
+Clarified RG-H001 as an existing testing prototype, not necessarily the final launch product. Preserved the earlier
+unknown-input baseline as history and all original blank price-scenario rows.
+
+Updated HQ facts/dashboard/backlog, RG-H001 records and catalog, finance assumptions/formulas/index, and supplier
+management. Added an itemized quotation checklist, a proposed quality/wash/design/customer/small-batch validation
+plan, and four provisional 59/69/79/89 TND retail illustrations using SAMPLE DATA landed product cost of 35 TND.
+Actual cost, contribution, margins, prices and stock remain unconfirmed; incomplete financial outputs stay blank.
+Checked dependent scripts/audit rules before CSV edits; column schemas and script behavior are unchanged.
+Registered the three new documents in the workspace manifest. No physical tests, supplier contact, order, live
+storefront update, external account change, Git remote change, commit or push was performed by this update.
+
+Validation executed: workspace audit checked 688 local links and 26 CSV schemas with 0 errors and 0 warnings.
+CSV preservation checks confirmed the original scenario rows and schemas unchanged, the four SAMPLE inputs
+correct, and actual catalog financial/stock fields untouched. Existing Git HEAD and origin are unchanged.
+
+## 2026-10-08 - Visual asset library and local Creative Archive
+
+Added a central metadata index, five unresolved RG-H001 photo intake records, safe import/scan tools and a local
+read-only HTML dashboard. Original product/studio/campaign folders remain canonical. Integrated existing product,
+Higgsfield, campaign and operations records; added navigation and agent rules. Recorded additional founder-reported
+organic-stage/Instagram/design-flexibility information without approving prices, USP, contracts or advertising.
+The existing CSV schemas and Costas updates are preserved; the visual manifest adds a separately registered schema.
+No original media is invented, overwritten, relocated or published. No provider account, Git remote, commit or push is changed.
+Executed checks and remaining limitations are documented in the asset library validation report.
+
+Visual archive validation: 42 isolated integration/browser checks and 14 real-delivery checks passed. The workspace
+audit checked 738 relative links and 27 CSV schemas with 0 errors and 0 warnings; all 12 PowerShell scripts parsed.
+JavaScript syntax/Python compilation passed, desktop/mobile layouts were visually inspected, and launcher startup
+was exercised. Real state: 0 local media files, 5 unresolved hoodie intake records. Optional ffprobe/ffmpeg unavailable.

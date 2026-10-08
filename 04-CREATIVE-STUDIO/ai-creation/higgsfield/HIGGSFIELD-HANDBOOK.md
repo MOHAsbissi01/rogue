@@ -53,3 +53,11 @@ Next action: follow HV-001's first-production checklist when the real hoodie pho
 ## Related records
 
 [production workflow](production-workflow.md) | [README](04-VIDEO-PRODUCTIONS/README.md) | [first production checklist](04-VIDEO-PRODUCTIONS/HV-001-FIRST-HOODIE/first-production-checklist.md) | [budget estimator](08-PRODUCTION-FINANCE/budget-estimator.md) | [models and tools](models-and-tools.md)
+
+## Visual archive integration - 2026-10-08
+
+The [asset library](../../../12-ASSET-LIBRARY/README.md) indexes canonical references, generated scenes and final
+exports without creating competing masters. Link asset rows with the actual HV production ID, SKU and campaign.
+The [local dashboard](../../../dashboard/README.md) reads production-index.csv and deliverables.csv, links briefs,
+and distinguishes missing exports from actual media. A generation location never proves AI provenance or approval.
+Review source accuracy/rights and exact hashes before approving commercial reuse. It does not call Higgsfield.

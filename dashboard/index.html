@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="color-scheme" content="dark"><title>ROGUE / Creative Archive</title>
+  <link rel="stylesheet" href="css/app.css"><script src="js/app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <aside class="sidebar">
+    <a class="wordmark" href="#overview" aria-label="ROGUE overview">ROGUE<span>CREATIVE ARCHIVE / TN</span></a>
+    <div class="nav-label">WORKSPACE</div>
+    <nav aria-label="Main navigation">
+      <button data-view="overview" class="active"><span>01</span>Overview</button>
+      <button data-view="gallery"><span>02</span>Asset gallery</button>
+      <button data-view="products"><span>03</span>Products</button>
+      <button data-view="studio"><span>04</span>Creative Studio</button>
+      <button data-view="higgsfield"><span>05</span>Higgsfield</button>
+      <button data-view="campaigns"><span>06</span>Campaigns</button>
+    </nav>
+    <div class="sidebar-foot"><span class="dot"></span> LOCAL WORKSPACE<p>Originals stay in their home folders.<br>Nothing publishes from here.</p><span class="edition">ROGUE / VOL. 001</span></div>
+  </aside>
+  <main id="main" tabindex="-1">
+    <header class="topbar"><div>HEADQUARTERS <span>/</span> CREATIVE RESOURCES</div><button id="refresh" class="subtle">Reload index <span aria-hidden="true">↻</span></button></header>
+    <div class="page-heading"><div><p class="eyebrow" id="eyebrow">THE WORK, IN ONE PLACE</p><h1 id="page-title">Overview</h1></div><span class="badge" id="index-state">Loading index</span></div>
+    <div id="notice" role="status" aria-live="polite"></div>
+    <section id="overview" class="view"></section>
+    <section id="gallery" class="view" hidden>
+      <div class="filterbar">
+        <label class="search-label">Search archive<input id="search" type="search" placeholder="Filename, display name or tags…"></label>
+        <label>Product<select id="product-filter"><option value="">All products</option></select></label>
+        <label>Collection<select id="collection-filter"><option value="">All collections</option></select></label>
+        <label>Type<select id="type-filter"><option value="">All types</option></select></label>
+        <label>Platform<select id="platform-filter"><option value="">All platforms</option></select></label>
+        <label>Review state<select id="status-filter"><option value="">All states</option></select></label>
+        <label>Sort<select id="sort"><option value="date">Newest file first</option><option value="name">Name A–Z</option><option value="category">Category A–Z</option></select></label>
+      </div>
+      <div class="section-title"><p id="results" aria-live="polite"></p><button id="clear" class="subtle">Clear filters</button></div>
+      <div id="gallery-grid" class="asset-grid"></div>
+    </section>
+    <section id="products" class="view" hidden></section>
+    <section id="studio" class="view" hidden></section>
+    <section id="higgsfield" class="view" hidden></section>
+    <section id="campaigns" class="view" hidden></section>
+    <footer><span>ROGUE — BUILT FROM THE INSIDE.</span><span id="scan-time">Local index • no account connection</span></footer>
+  </main>
+  <dialog id="preview" aria-labelledby="preview-title">
+    <div class="modal-head"><div><p class="eyebrow" id="preview-id"></p><h2 id="preview-title"></h2></div><button id="close-preview" aria-label="Close preview">✕</button></div>
+    <div class="preview-layout"><div id="preview-media"></div><div id="preview-details"></div></div>
+  </dialog>
+</body>
+</html>

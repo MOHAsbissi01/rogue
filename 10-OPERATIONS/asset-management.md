@@ -47,3 +47,11 @@ Next action: identify where the real sample photos and research files live and v
 ## Related files
 
 [decision log](../00-HQ/decisions/decision-log.md) | [README](README.md)
+
+## Gallery integration - 2026-10-08
+
+The [visual manifest](../12-ASSET-LIBRARY/asset-manifest.csv) owns asset-level creative review and publication metadata;
+this department's register remains authoritative for owner, backup_status and backup_reference. Scanner-discovered
+media receive matching IDs in both records. Existing physical/external records remain intact. Import intake rows are
+unresolved, not proof of local media. A rebuild mirrors register ownership/backup data into the gallery, with read-only
+Git tracking and content hashes. It never marks backup verified. See [schema](../12-ASSET-LIBRARY/metadata-schema.md).

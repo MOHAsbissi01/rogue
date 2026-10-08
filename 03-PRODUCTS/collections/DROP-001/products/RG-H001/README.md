@@ -24,3 +24,21 @@ Keep decisions and approved versions in approvals. Register current facts in the
 Use `YYYY-MM-DD_PRODUCTID_view_vNN.ext` for new assets and `YYYY-MM-DD-session-name` for additional albums.
 Do not rename existing originals. Record their original paths in the asset register instead.
 No folder name establishes sample acceptance or asset approval. Next step: assign a product owner and collect evidence.
+
+## Current manufacturing context - 2026-10-08
+
+FACT: RG-H001 is the existing first testing prototype, not necessarily the final launch product. Costas is the
+founder-identified supplier. The preliminary 20-25 TND/unit manufacturing estimate has UNKNOWN coverage and
+is not a final quote or landed cost. Founders report no minimum quantity, without independent contractual verification.
+PROPOSAL: compare additional hoodie designs through controlled small-batch sampling before launch selection.
+
+Use the [validation plan](product-validation-plan.md), [supplier notes](supplier-notes.md) and
+[illustrative price scenarios](../../../../../07-FINANCE/illustrative-price-scenarios.md). These records do not approve a purchase.
+
+## Visual reference intake - 2026-10-08
+
+Five founder-described photo categories are indexed as unresolved: cuffs/hem, studio front, drawstring/fabric,
+studio back with anatomical graphic, and outdoor lifestyle. No accessible files or visual details were verified.
+Use the [intake procedure](../../../../../12-ASSET-LIBRARY/import-workflow.md) to attach actual originals with their
+existing filenames. Review provenance, rights and exact garment fidelity before commercial use. The
+[local dashboard](../../../../../dashboard/README.md) reads these canonical product albums without moving them.

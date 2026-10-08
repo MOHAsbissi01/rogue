@@ -24,7 +24,7 @@ Record measured or supplier-evidenced values only. FACT: the founders report tha
 | Color variants | UNKNOWN | Approved physical color reference |
 | Sizes and grade rules | UNKNOWN | Measured chart and supplier agreement |
 | Trims, label and packaging | UNKNOWN | Approved specification and rights review |
-| Supplier and production site | UNKNOWN | Safe reference to private supplier record |
+| Supplier and production site | Costas: founder-confirmed supplier; site UNKNOWN | Founder update 2026-10-08; verify written entity/site details privately |
 | Sample versions | See prototypes/v01 | Existence and status documented per version |
 | Tests / tolerances | UNKNOWN | Agreed protocol, observations and reviewer |
 | Per-unit cost / retail / margin | UNKNOWN | Costing model and price approval |
@@ -34,3 +34,10 @@ Record measured or supplier-evidenced values only. FACT: the founders report tha
 Revision entry: version; ISO date; changed fields; reason; source; owner; actual approver.
 Freeze a dated approved specification before production and reference that version on supplier communications.
 Open questions: what differs between intended design and actual sample, and what must be revised?
+
+## Revision record - 2026-10-08
+
+FACT update from founders: Costas replaces the previous UNKNOWN supplier identity. RG-H001 remains a testing
+prototype; final launch selection is UNKNOWN. Preliminary 20-25 TND/unit manufacturing estimate has unconfirmed
+coverage; it does not fill the final per-unit cost field. No fabric, GSM, color, size or construction value was supplied.
+Owner assignment and technical approval remain pending. See [supplier notes](supplier-notes.md).

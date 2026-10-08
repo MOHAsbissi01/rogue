@@ -73,3 +73,17 @@ It reuses the lock, backups and conditional rollback helpers. It never generates
 higgsfield-audit.ps1 is a helper loaded by audit-workspace.ps1. It validates production IDs, product/campaign links,
 template completeness, generation-log registration, deliverable/calendar relationships and approval/publication
 evidence fields. These checks detect missing records, not whether the claimed approval is authentic; human review remains required.
+
+## Visual asset commands
+
+| Command | Purpose | Changes |
+| --- | --- | --- |
+| build-asset-gallery.ps1 | Scan explicit canonical roots and refresh the read-only gallery | Preserves human metadata; updates manifest/register/generated JSON with transactional backups; creates versioned thumbnails and a report |
+| import-assets.ps1 | Register one existing original or explicitly copy one accessible external original | Preserves filename/source; refuses existing destination or identical content; attaches unresolved intake ID if given; never approves |
+| start-dashboard.ps1 | Rebuild and launch the loopback-only viewer | Runs Python stdlib server; Ctrl+C stops it; no install or network needed |
+
+gallery-common.ps1 supplies the allowlist/classification/review checks. gallery-audit.ps1 extends the existing
+workspace audit. serve-dashboard.py is the read-only HTTP server with range requests and restricted file routing.
+See [import examples](../12-ASSET-LIBRARY/import-workflow.md), [dashboard guide](../dashboard/README.md) and
+[validation record](../12-ASSET-LIBRARY/validation-report.md). Optional build flags: SkipThumbnails, SkipVideoMetadata;
+WorkspaceRoot supports temporary paths with spaces. Rebuilds hash accessible media to invalidate stale approvals.

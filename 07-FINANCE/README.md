@@ -4,7 +4,7 @@ Owner: Both cofounders (assignment pending)
 Approval status: PROPOSAL - awaiting founder review  
 Last reviewed: 2026-10-08
 
-Use TND inputs to understand cost, contribution, cash and spending limits. All business amounts are unknown; no actual price or profitability is asserted. Blank numeric cells require evidence and are never automatic zeros. CSV templates do not recalculate. Next action: collect dated comparable quotes and review the written formulas with both founders.
+Use TND inputs to understand cost, contribution, cash and spending limits. Final business amounts are unknown; a preliminary Costas estimate and separate SAMPLE DATA illustrations are recorded, with no actual price or profitability asserted. Blank numeric cells require evidence and are never automatic zeros. CSV templates do not recalculate. Next action: collect dated comparable quotes and review the written formulas with both founders.
 
 ## Working files
 
@@ -27,3 +27,9 @@ Use TND inputs to understand cost, contribution, cash and spending limits. All b
 Production money and provider credits are tracked separately. The central launch budget still owns spending approval; no fixed credit-to-TND conversion is assumed.
 
 [README](../04-CREATIVE-STUDIO/ai-creation/higgsfield/08-PRODUCTION-FINANCE/README.md)
+
+## 2026-10-08 scenario update
+
+Start with [illustrative price scenarios](illustrative-price-scenarios.md) for the provisional 59/69/79/89 TND
+comparison. The 35 TND landed cost is SAMPLE DATA; the Costas 20-25 TND manufacturing estimate has unknown
+coverage. Neither constitutes a final quote. Original blank scenarios remain available in the CSV.

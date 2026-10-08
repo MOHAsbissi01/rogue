@@ -7,8 +7,9 @@ Last reviewed: 2026-10-08
 ## Purpose and evidence status
 
 Use this model to understand a proposed offer before approving price, production or acquisition spend.
-Currency: TND. FACT: no cost, retail price or margin is confirmed. All numeric inputs remain blank (UNKNOWN).
-No illustrative money figures or profitability claims are seeded. CSVs are editable records, not live formula engines.
+Currency: TND. Final cost, retail price and margin remain unconfirmed. The initial blank-input baseline is
+now supplemented by a preliminary founder-reported manufacturing estimate and clearly separated SAMPLE DATA
+price illustrations (2026-10-08). CSVs are editable records, not live formula engines; no actual profitability is asserted.
 
 ## Landed unit cost
 
@@ -74,3 +75,16 @@ deposits, delivery settlement timing and reserves in the separate cashflow revie
 ## Related files
 
 [costing template](costing-template.csv) | [price scenarios](price-scenarios.csv) | [break even model](break-even-model.md) | [financial assumptions](financial-assumptions.md)
+
+## Costas estimate and provisional retail illustrations - 2026-10-08
+
+FACT about founder report: Costas estimates manufacturing at 20-25 TND per hoodie, preliminarily. Coverage is
+UNKNOWN for blank garment, graphics, embroidery, printing, packaging and transport. Do not use this range as
+landed unit cost or calculate a ROGUE margin from it. Obtain itemized costs and avoid double-counting decoration.
+Founder-reported acceptance of very small orders without a minimum is not independently verified contract terms.
+
+**SAMPLE DATA - NOT ROGUE ACTUALS - NOT APPROVED PRICES:** the [illustrative worksheet](illustrative-price-scenarios.md)
+compares 59, 69, 79 and 89 TND against a hypothetical 35 TND landed product cost. Price less this one cost equals
+24, 34, 44 and 54 TND respectively. These are partial arithmetic differences, not contribution, margin, profit,
+break-even CAC or spending limits. Complete every revenue adjustment and variable order cost above before using
+the contribution formulas. No final launch product has been selected by this worksheet.

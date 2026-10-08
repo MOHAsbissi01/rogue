@@ -24,6 +24,7 @@ try {
     foreach ($file in Get-WorkspaceFiles $root) {
         if ($file.Extension.ToLowerInvariant() -notin $extensions) { continue }
         $relative = Get-RelativePath $root $file.FullName
+        if ($relative.StartsWith('12-ASSET-LIBRARY/generated-thumbnails/')) { continue }
         $owner='UNASSIGNED'; $backup='UNKNOWN'; $backupReference=''; $rights='UNKNOWN'
         $matches = @($register.Rows | Where-Object { $_.local_path.Replace('\','/') -eq $relative })
         if ($matches.Count -eq 1) { $owner=$matches[0].owner; $backup=$matches[0].backup_status; $backupReference=$matches[0].backup_reference; $rights=$matches[0].rights_status }

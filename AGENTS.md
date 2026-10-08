@@ -71,3 +71,16 @@ marketing objective, not disconnected clips.
   links and CSV schemas together. Use stable HV IDs; retain versioned approvals and lessons from failed attempts.
 - Run the extended workspace audit and safely test script changes in a temporary workspace. Do not call provider
   APIs, consume credits or upload product references merely to validate the local production-management system.
+
+## Visual asset library and dashboard
+
+- Read 12-ASSET-LIBRARY/README.md and metadata-schema.md before extending the gallery or importing media.
+- Keep canonical product/studio/campaign masters in place. Preserve filenames and use display_name for friendly names.
+- The manifest owns creative metadata; the existing operations asset register owns ownership and backup evidence.
+  Keep IDs aligned, preserve external/physical records and all CSV schemas unless intentionally migrated with audits.
+- Never infer rights, provenance, commercial approval, product fidelity or publication from folders or filenames.
+- Record unresolved intake categories without inventing images. Keep missing records; do not substitute generic photographs.
+- Bind approvals to exact bytes and safe review evidence. Changed bytes need renewed review. No dashboard action publishes.
+- Keep local JSON, inbox media, thumbnails and reports ignored. Do not expose the repository via a generic HTTP server.
+- Test scan/import/server changes in a temporary prepared workspace, including collisions, sensitive paths, links,
+  missing media, invalid review evidence and video range requests. Rebuild and audit before reporting success.

@@ -20,3 +20,12 @@ FACT: the founders report that the first physical hoodie prototype exists; its e
 Open blockers: incomplete specification, cost, rights and validation records.
 For each change record ISO date, stage, actual owner, evidence and decision-log ID. A template checkbox
 or folder creation never establishes a physical manufacturing event.
+
+## Status clarification - 2026-10-08
+
+FACT: this is a testing prototype, not necessarily the final launch hoodie. Sample acceptance remains UNKNOWN.
+Costas and its preliminary 20-25 TND/unit estimate are founder-supplied information; final cost and scope remain
+UNKNOWN. Founders report very small orders with no minimum quantity; written terms are unverified.
+PROPOSAL: compare other hoodie designs using the [validation plan](product-validation-plan.md). Advance to a
+small production batch only after a version-specific sample decision, complete costs and explicit spending approval.
+No gate in the original status table is marked passed by this update.

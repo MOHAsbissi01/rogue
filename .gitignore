@@ -68,3 +68,13 @@ Desktop.ini
 **/higgsfield/**/audio/**
 !**/higgsfield/**/.gitkeep
 # Small approved reference-safe stills/manifests remain eligible under existing asset policy.
+
+# Local gallery data, inbox originals, derived previews and scan reports are not ordinary Git assets.
+/dashboard/data/*
+!/dashboard/data/.gitkeep
+/12-ASSET-LIBRARY/import-inbox/**
+/12-ASSET-LIBRARY/generated-thumbnails/**
+/12-ASSET-LIBRARY/reports/**
+!/12-ASSET-LIBRARY/import-inbox/.gitkeep
+!/12-ASSET-LIBRARY/generated-thumbnails/.gitkeep
+!/12-ASSET-LIBRARY/reports/.gitkeep

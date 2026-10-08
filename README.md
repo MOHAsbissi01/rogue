@@ -82,3 +82,10 @@ and a connected workflow from real hoodie references to a complete reviewed vide
 Start with [HV-001's three proposed videos](04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS/HV-001-FIRST-HOODIE/README.md)
 and its [photograph intake checklist](04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS/HV-001-FIRST-HOODIE/first-production-checklist.md).
 All remain proposals. Capabilities, costs and commercial garment details are unverified; no generation or credits used.
+
+## Visual asset library and local dashboard
+
+Open the [Creative Archive guide](dashboard/README.md) or [asset library](12-ASSET-LIBRARY/README.md) to browse
+product, studio, Higgsfield and campaign resources. Run `scripts/start-dashboard.ps1` from PowerShell at this root.
+The local read-only dashboard indexes canonical folders; it neither duplicates masters nor publishes anything.
+Five expected hoodie-photo intake records await accessible originals. See the [import workflow](12-ASSET-LIBRARY/import-workflow.md).

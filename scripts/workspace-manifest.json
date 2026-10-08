@@ -261,7 +261,29 @@
     "scripts/templates/product/quality-control.md",
     "scripts/templates/product/sizing.md",
     "scripts/templates/product/supplier-notes.md",
-    "scripts/workspace-manifest.json"
+    "scripts/workspace-manifest.json",
+    "10-OPERATIONS/supplier-quotation-checklist.md",
+    "03-PRODUCTS/collections/DROP-001/products/RG-H001/product-validation-plan.md",
+    "07-FINANCE/illustrative-price-scenarios.md",
+    "12-ASSET-LIBRARY/asset-manifest.csv",
+    "12-ASSET-LIBRARY/asset-taxonomy.md",
+    "12-ASSET-LIBRARY/import-workflow.md",
+    "12-ASSET-LIBRARY/media-rights-and-provenance.md",
+    "12-ASSET-LIBRARY/metadata-schema.md",
+    "12-ASSET-LIBRARY/naming-conventions.md",
+    "12-ASSET-LIBRARY/README.md",
+    "12-ASSET-LIBRARY/review-template.md",
+    "dashboard/index.html",
+    "dashboard/README.md",
+    "dashboard/css/app.css",
+    "dashboard/js/app.js",
+    "scripts/gallery-common.ps1",
+    "scripts/gallery-audit.ps1",
+    "scripts/build-asset-gallery.ps1",
+    "scripts/import-assets.ps1",
+    "scripts/start-dashboard.ps1",
+    "scripts/serve-dashboard.py",
+    "12-ASSET-LIBRARY/validation-report.md"
   ],
   "directories": [
     "00-HQ",
@@ -417,6 +439,14 @@
     "scripts/templates/campaign",
     "scripts/templates/product",
     "scripts/templates/product/prototypes",
-    "scripts/templates/product/prototypes/v01"
+    "scripts/templates/product/prototypes/v01",
+    "12-ASSET-LIBRARY",
+    "12-ASSET-LIBRARY/import-inbox",
+    "12-ASSET-LIBRARY/generated-thumbnails",
+    "12-ASSET-LIBRARY/reports",
+    "dashboard",
+    "dashboard/css",
+    "dashboard/js",
+    "dashboard/data"
   ]
 }
