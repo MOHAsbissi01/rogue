@@ -1,0 +1,45 @@
+{
+  "base_path": "04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS",
+  "template_path": "04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS/production-template",
+  "directories": [
+    "references",
+    "generated-scenes",
+    "audio",
+    "editing-projects",
+    "final-exports"
+  ],
+  "files": [
+    "README.md",
+    "creative-brief.md",
+    "story-treatment.md",
+    "storyboard.md",
+    "shot-list.md",
+    "higgsfield-prompts.md",
+    "continuity-checklist.md",
+    "sound-and-music.md",
+    "edit-and-delivery-plan.md",
+    "review-and-approvals.md",
+    "performance-results.md",
+    "generation-log.csv"
+  ],
+  "platforms": [
+    "Instagram",
+    "TikTok",
+    "Instagram+TikTok",
+    "Website",
+    "Multi-platform"
+  ],
+  "content_types": [
+    "Organic",
+    "Paid",
+    "Hybrid"
+  ],
+  "objectives": [
+    "Brand awareness",
+    "Product launch",
+    "Emotional storytelling",
+    "Organic engagement",
+    "Paid advertising",
+    "Product conversion"
+  ]
+}

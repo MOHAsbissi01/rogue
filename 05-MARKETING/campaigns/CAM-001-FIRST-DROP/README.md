@@ -30,3 +30,10 @@ Register every scheduled deliverable in the central content calendar; do not inv
 
 These are independent alternatives, not a required six-part shoot. Select only what answers a current question
 and fits an approved production scope. Every concept contains its own 15-30-second narrative and release checks.
+
+
+## Higgsfield integration
+
+HV-001 adds three complete-video proposals linked to this campaign. They are alternatives that may develop the earlier concepts, not completed assets or automatic additions to spend.
+
+[README](../../../04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS/HV-001-FIRST-HOODIE/README.md)

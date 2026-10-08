@@ -95,3 +95,36 @@ or push. Git is not a media backup. See [asset management](10-OPERATIONS/asset-m
 ## Related files
 
 [dashboard](00-HQ/dashboard.md) | [README](scripts/README.md) | [collaboration and approval rules](10-OPERATIONS/collaboration-and-approval-rules.md)
+
+
+## Create a Higgsfield production record
+
+Read the [handbook](04-CREATIVE-STUDIO/ai-creation/higgsfield/HIGGSFIELD-HANDBOOK.md) and the
+[first-hoodie intake checklist](04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS/HV-001-FIRST-HOODIE/first-production-checklist.md).
+The first package HV-001 already contains three unapproved proposals. Select and develop one before creating duplicates.
+
+```powershell
+.\scripts\new-higgsfield-production.ps1
+.\scripts\new-higgsfield-production.ps1 -ProductionName 'Detail Study' -ProductionId HV-002 -ProductSku RG-H001 -CampaignId CAM-001-FIRST-DROP -Platform 'Instagram+TikTok' -ContentType Organic -Objective 'Product launch'
+```
+
+The first command asks seven questions: name, HV ID, registered product SKU/base ID, registered campaign, platform,
+Organic/Paid/Hybrid type and objective. A base product ID allows planning but leaves commercial SKU approval unresolved.
+The script creates the standard production folder, registers its main proposed deliverable, adds an unscheduled
+content-calendar row and registers the generation-log schema. New state is always IDEA. No provider is called.
+
+IDs: HV- plus three digits. Name: 1-60 ASCII letters/numbers/spaces/apostrophes/hyphens. Platforms: Instagram, TikTok,
+Instagram+TikTok, Website, Multi-platform. Objectives: Brand awareness, Product launch, Emotional storytelling,
+Organic engagement, Paid advertising, Product conversion. Use exact displayed capitalization.
+
+Optional `-WorkspaceRoot 'C:\path with spaces\rogue'` targets another prepared workspace. Duplicate IDs, existing
+folders, unknown product/campaign references and incompatible CSV headers are rejected. Updates use the existing
+local lock, backups and recovery journal. On failure, inspect the journal; new folders are retained, not overwritten
+on retry. Coordinate one writer across OneDrive machines. Run the workspace audit after editing records.
+
+Next: fill references/story/motion/audio/finishing plan, verify capabilities/costs, then obtain explicit generation
+authorization. A completed local brief is not permission to generate, upload, spend or publish.
+
+Git state note, 2026-10-08 continuation: local inspection now shows existing Git history and a configured origin
+remote. The earlier empty-repository note describes initial setup. This extension preserves the current history
+and remote and performs no commit or push. Repository visibility and invite permissions were not checked online.

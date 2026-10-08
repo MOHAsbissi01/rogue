@@ -25,3 +25,11 @@ not a guarantee. Compare frame-by-frame with the real sample and reject misleadi
 ## Related files
 
 [generations log](generations-log.csv)
+
+
+## Production use
+
+This original worksheet is preserved. For shot-level timing, subject/camera action, continuity and sound handoff,
+use the expanded [production prompt template](02-PROMPT-LIBRARY/prompt-template.md) and
+[prompt engineering guide](prompt-engineering-guide.md). Log new attempts in the relevant production record;
+do not duplicate debit/cost transactions in the general log. No prompt has been run by this extension.

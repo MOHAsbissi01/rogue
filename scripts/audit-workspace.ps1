@@ -141,6 +141,9 @@ try {
         }
         foreach ($directory in Get-ChildItem -LiteralPath (Get-SafePath $root '05-MARKETING/campaigns') -Directory) { if (-not $codes.ContainsKey($directory.Name)) { Add-Issue "Campaign folder not registered: $($directory.Name)" } }
     }
+    # Additional production relationships; existing checks remain unchanged.
+    . (Get-SafePath $root 'scripts/higgsfield-audit.ps1')
+    foreach ($issue in @(Test-HiggsfieldRecords $root $tables)) { Add-Issue $issue }
     $reportRoot=Get-SafePath $root '.local/reports'
     [IO.Directory]::CreateDirectory($reportRoot) | Out-Null
     $stamp=(Get-Date -Format 'yyyyMMdd-HHmmss')+'-'+[Guid]::NewGuid().ToString('N').Substring(0,8)

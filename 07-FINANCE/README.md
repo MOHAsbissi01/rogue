@@ -20,3 +20,10 @@ Use TND inputs to understand cost, contribution, cash and spending limits. All b
 ## Related files
 
 [START HERE](../START-HERE.md) | [brand facts](../00-HQ/brand-facts.md)
+
+
+## Higgsfield integration
+
+Production money and provider credits are tracked separately. The central launch budget still owns spending approval; no fixed credit-to-TND conversion is assumed.
+
+[README](../04-CREATIVE-STUDIO/ai-creation/higgsfield/08-PRODUCTION-FINANCE/README.md)

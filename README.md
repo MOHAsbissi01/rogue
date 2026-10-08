@@ -72,3 +72,13 @@ secure access management or independent media backups.
 ## Related files
 
 [START HERE](START-HERE.md) | [CHANGELOG](CHANGELOG.md)
+
+
+## Higgsfield creative production
+
+ROGUE's core AI production tool now has a local [production handbook](04-CREATIVE-STUDIO/ai-creation/higgsfield/HIGGSFIELD-HANDBOOK.md),
+[central production index](04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS/production-index.csv)
+and a connected workflow from real hoodie references to a complete reviewed video.
+Start with [HV-001's three proposed videos](04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS/HV-001-FIRST-HOODIE/README.md)
+and its [photograph intake checklist](04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS/HV-001-FIRST-HOODIE/first-production-checklist.md).
+All remain proposals. Capabilities, costs and commercial garment details are unverified; no generation or credits used.

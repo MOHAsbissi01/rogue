@@ -19,3 +19,10 @@ Plan, capture, edit and approve truthful creative work. Real footage, editor-pro
 ## Related files
 
 [START HERE](../START-HERE.md) | [brand facts](../00-HQ/brand-facts.md)
+
+
+## Higgsfield integration
+
+Higgsfield now has a complete local production workflow covering story, motion, fidelity, sound, finishing and approval.
+
+[README](ai-creation/higgsfield/README.md)

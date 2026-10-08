@@ -1,0 +1,6 @@
+cost_id,production_id,deliverable_id,attempt_id,category,description,basis,plan_or_tool,billing_period,allocation_method,source_amount,source_currency,fx_rate_to_tnd,fx_source,amount_tnd,source_reference,credit_event_reference,launch_budget_line,approval_reference,incurred_date,paid_date,owner,status,notes
+TEMPLATE-1,HV-001,,,Higgsfield Usage,Subscription/top-up/direct usage allocation on verified basis,UNKNOWN,,,,,,,,,,,,,,,UNASSIGNED,NO VERIFIED COST,All money inputs blank; link evidence and avoid double allocation
+TEMPLATE-2,HV-001,,,External Tools,Supplementary tools including export/upscale if external,UNKNOWN,,,,,,,,,,,,,,,UNASSIGNED,NO VERIFIED COST,All money inputs blank; link evidence and avoid double allocation
+TEMPLATE-3,HV-001,,,Editing,Complete assembly finishing and revisions,UNKNOWN,,,,,,,,,,,,,,,UNASSIGNED,NO VERIFIED COST,All money inputs blank; link evidence and avoid double allocation
+TEMPLATE-4,HV-001,,,Audio,Music SFX voice licensing and mix if not already included,UNKNOWN,,,,,,,,,,,,,,,UNASSIGNED,NO VERIFIED COST,All money inputs blank; link evidence and avoid double allocation
+TEMPLATE-5,HV-001,,,Other Direct Costs,Other approved direct production expenses,UNKNOWN,,,,,,,,,,,,,,,UNASSIGNED,NO VERIFIED COST,All money inputs blank; link evidence and avoid double allocation

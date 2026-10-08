@@ -57,3 +57,19 @@ campaigns and metrics out of the real headquarters. The delivered QA report reco
 ## Related files
 
 [qa report](../00-HQ/qa-report.md) | [csv schemas](csv-schemas.json) | [workspace manifest](workspace-manifest.json)
+
+
+## Higgsfield onboarding and audit extension
+
+new-higgsfield-production.ps1 asks for production name/ID, registered product SKU/base ID, registered campaign,
+platform, content type and objective. See the [usage examples](../START-HERE.md#create-a-higgsfield-production-record).
+Its single template source is the production-template folder in the Higgsfield department, not a competing copy.
+higgsfield-production-structure.json defines template files/folders and allowed options.
+
+The script updates four managed files together: production-index.csv, deliverables.csv, the marketing content
+calendar and CSV schemas for the new generation log. Existing record rows and schema definitions are preserved.
+It reuses the lock, backups and conditional rollback helpers. It never generates media, uploads, spends or approves.
+
+higgsfield-audit.ps1 is a helper loaded by audit-workspace.ps1. It validates production IDs, product/campaign links,
+template completeness, generation-log registration, deliverable/calendar relationships and approval/publication
+evidence fields. These checks detect missing records, not whether the claimed approval is authentic; human review remains required.

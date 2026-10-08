@@ -23,3 +23,10 @@ Connect proposed content pillars to audience questions and measurable learning. 
 ## Related files
 
 [START HERE](../START-HERE.md) | [brand facts](../00-HQ/brand-facts.md)
+
+
+## Higgsfield integration
+
+HV production/deliverable IDs join the campaign and content calendar. New entries are unscheduled proposals, not published posts.
+
+[deliverables](../04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS/deliverables.csv)

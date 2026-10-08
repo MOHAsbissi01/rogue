@@ -58,3 +58,13 @@ Desktop.ini
 !**/.gitkeep
 # JPG, PNG, SVG, WEBP and small design/reference assets are NOT globally ignored.
 # Check rights, metadata, size and privacy before staging any permitted asset.
+
+
+# Higgsfield production media: metadata remains versioned; binaries need independent backups.
+**/higgsfield/**/generated-scenes/**
+**/higgsfield/**/editing-projects/**
+**/higgsfield/**/failed-generations/**
+**/higgsfield/**/final-exports/**
+**/higgsfield/**/audio/**
+!**/higgsfield/**/.gitkeep
+# Small approved reference-safe stills/manifests remain eligible under existing asset policy.

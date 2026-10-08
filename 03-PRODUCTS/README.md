@@ -19,3 +19,10 @@ Maintain one authoritative record per product, starting with RG-H001 in DROP-001
 ## Related files
 
 [START HERE](../START-HERE.md) | [brand facts](../00-HQ/brand-facts.md)
+
+
+## Higgsfield integration
+
+Real product photographs/specifications remain canonical here. Production reference manifests link them without duplicate originals.
+
+[README](../04-CREATIVE-STUDIO/ai-creation/higgsfield/03-PRODUCT-REFERENCES/README.md)

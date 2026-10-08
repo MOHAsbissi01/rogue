@@ -1,0 +1,2 @@
+event_id,event_date,production_id,deliverable_id,attempt_id,provider_job_id,plan_label,billing_period,event_type,credits_debited,credits_refunded,credits_granted,credits_expired,credits_adjustment,verified_balance,source_reference,authorization_reference,reviewer,status,notes
+TEMPLATE,,,,,,,,,,,,,,,,,,NO VERIFIED CREDIT EVENTS,Credits are provider units; no fixed money conversion; enter debit/refund/grant/expiry separately with evidence

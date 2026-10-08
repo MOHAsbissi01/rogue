@@ -17,3 +17,10 @@ Develop and approve an original identity. The name and gothic-inspired aesthetic
 ## Related files
 
 [START HERE](../START-HERE.md) | [brand facts](../00-HQ/brand-facts.md)
+
+
+## Higgsfield integration
+
+The production system references these identity records; it does not approve new logos, fonts or garment colors.
+
+[rogue visual identity](../04-CREATIVE-STUDIO/ai-creation/higgsfield/01-BRAND-CONTEXT/rogue-visual-identity.md)

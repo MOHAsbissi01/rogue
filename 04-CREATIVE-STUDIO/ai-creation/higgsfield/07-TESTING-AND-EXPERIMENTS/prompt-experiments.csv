@@ -1,0 +1,2 @@
+experiment_id,production_id,deliverable_id,hypothesis,changed_variable,control_prompt,test_prompt,reference_version,attempt_ids,observation_date,success_criteria,actual_result,evidence_reference,credits_reference,cost_reference,decision,reviewer,status
+TEMPLATE,,,,,,,,,,Define before authorized test; exact garment and intended motion are mandatory,,,,,NOT DECIDED,,NOT RUN

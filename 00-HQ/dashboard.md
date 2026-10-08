@@ -34,3 +34,18 @@ Record a launch readiness exception openly rather than marking an unmet gate com
 ## Related files
 
 [backlog](tasks/backlog.md) | [open questions](open-questions.md) | [roadmap 90 days](roadmap-90-days.md) | [decision log](decisions/decision-log.md)
+
+
+## Higgsfield production readiness
+
+FACT: the user designates Higgsfield a core AI creative tool and reports past problems with design drift, missing
+sound, static action, disconnected storytelling and excessive manual finishing. Source attempts/costs were not supplied.
+HV-001 has three proposals: brand beginning, actual product reveal and story ad. State IDEA; no generation, approved
+export, spend or publication. This extension does not replace the three core business priorities above.
+
+Next creative actions: (1) complete the real hoodie reference intake and exact SKU/spec review; (2) choose a brief,
+objective and assigned editor/sound finisher; (3) verify provider settings/cost evidence and obtain scoped authorization.
+Critical blockers: absent canonical photos, unconfirmed garment/variant details, rights, finishing owner and offer.
+
+Open the [production system](../04-CREATIVE-STUDIO/ai-creation/higgsfield/README.md) and
+[first-production checklist](../04-CREATIVE-STUDIO/ai-creation/higgsfield/04-VIDEO-PRODUCTIONS/HV-001-FIRST-HOODIE/first-production-checklist.md).

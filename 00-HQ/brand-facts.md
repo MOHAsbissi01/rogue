@@ -42,3 +42,15 @@ in research or product files. Next action: locate original sample/research recor
 ## Related files
 
 [decision log](decisions/decision-log.md) | [strategic hypotheses](../01-STRATEGY/strategic-hypotheses.md)
+
+
+## Continuation facts supplied on 2026-10-08
+
+- FACT: the user designates Higgsfield as a core AI creative production tool; local production management is authorized.
+- FACT: Instagram and TikTok are intended social channels in the continuation brief. TikTok handle, ownership,
+  account access, capabilities and actual metrics remain UNKNOWN; no account was inspected.
+- FACT about reported experience: prior experimentation had design/placement drift, missing sound, static-looking
+  action, disconnected stories and excessive manual editing. Underlying files, frequency, models and costs are UNKNOWN.
+- Creative direction supplied: gothic, cinematic, rebellious, urban, atmospheric and premium-looking. This describes
+  intended presentation, not validated material quality, approved identity assets or commercial pricing.
+- No generation, upload, subscription, spending or publishing is authorized by this continuation.

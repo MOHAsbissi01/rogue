@@ -43,3 +43,31 @@ Run `powershell -NoProfile -File .\scripts\audit-workspace.ps1` after structural
 Preserve CSV headers; blank numeric inputs mean unknown, not zero. Review links and indexes.
 Read [script usage](scripts/README.md) before extending automation and update the manifest/schema when
 intentionally adding an essential template. Do not silently weaken checks to make them pass.
+
+
+## Higgsfield production system
+
+Read the [Higgsfield handbook](04-CREATIVE-STUDIO/ai-creation/higgsfield/HIGGSFIELD-HANDBOOK.md), production index
+and relevant product references before production work. Higgsfield is ROGUE's core AI creative production tool
+by explicit user direction. The goal is complete, coherent, publication-ready work with a documented story and
+marketing objective, not disconnected clips.
+
+- Product fidelity is mandatory: exact approved SKU/variant, canonical front/back/details/fit photographs and spec.
+  Never intentionally redesign or hallucinate the garment. RG-H001 alone is an organizational ID, not a final variant.
+- Never overwrite real product originals. Prefer links to canonical product files over duplicate copies.
+- No generation succeeds solely because a tool returns media. Review story, subject movement, camera, continuity,
+  garment accuracy, music/sound presence, rights, mobile readability, CTA and full exported playback.
+- Plan and assign assembly/sound/finishing before generating. Use a supplementary editor when verified native
+  capabilities cannot complete delivery; do not leave founders an unplanned professional editing task.
+- Log every actual attempt, including failures, revisions and cancelled jobs; record verified credit events separately
+  from monetary cost. Never infer free failure/refund or a fixed credit-to-money exchange rate.
+- Verify current capabilities, model/settings, account entitlement, limits, costs and usage rights before execution.
+  Unknown means UNVERIFIED; installed tool names or old tests are not proof of current provider behavior.
+- Nothing becomes approved automatically. No generation, external asset upload, purchase/subscription, paid service,
+  publication or advertising action without explicit user authorization for the specific scope.
+- Check applicable licenses, consent, likeness/voice permissions, commercial-use terms, disclosures and platform
+  policies for the actual destination, territory and period. Keep personal agreements/credentials outside Git.
+- Use new-higgsfield-production.ps1 for local onboarding. Maintain production index, deliverables, content-calendar
+  links and CSV schemas together. Use stable HV IDs; retain versioned approvals and lessons from failed attempts.
+- Run the extended workspace audit and safely test script changes in a temporary workspace. Do not call provider
+  APIs, consume credits or upload product references merely to validate the local production-management system.

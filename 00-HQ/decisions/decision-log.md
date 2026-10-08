@@ -26,3 +26,12 @@ allowed channels and rights expiry. For a new FACT, link the supporting evidence
 ## Related files
 
 [dashboard](../dashboard.md)
+
+
+## Implementation directive - 2026-10-08
+
+Source: user's Higgsfield creative production continuation instruction. Scope: extend local documentation and
+automation; recognize Higgsfield as a core AI tool and require complete coherent deliverables and mandatory product fidelity.
+This is a recorded user implementation directive, not a fabricated cofounder commercial/creative approval.
+Generation, external upload, purchase, credit use and publication are expressly outside the authorized scope.
+Three initial briefs remain proposals. Product, cost, rights and release decisions still need evidence and approval.

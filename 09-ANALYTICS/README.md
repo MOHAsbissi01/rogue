@@ -18,3 +18,10 @@ Report actual observations using consistent definitions, periods and denominator
 ## Related files
 
 [START HERE](../START-HERE.md) | [brand facts](../00-HQ/brand-facts.md)
+
+
+## Higgsfield integration
+
+Production/deliverable/content IDs connect creative versions to actual observations. Existing KPI definitions remain authoritative; no synthetic results are seeded.
+
+[system data guide](../04-CREATIVE-STUDIO/ai-creation/higgsfield/system-data-guide.md)
