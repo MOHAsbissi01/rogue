@@ -1,0 +1,2 @@
+record_id,period_start,period_end,timezone,campaign_code,test_id,variant_id,platform,currency,spend,attributed_net_sales,new_customers,attributed_completed_orders,cac,roas,attribution_window,attribution_method,source_reference,extracted_date,owner,status,limitations
+TEMPLATE,,,Africa/Lagos,,,,,TND,,,,,,,,,,,UNASSIGNED,NO DATA,No advertising run; results unavailable

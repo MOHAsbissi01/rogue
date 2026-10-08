@@ -1,0 +1,3 @@
+asset_id,asset_type,product_or_campaign,local_path,external_storage_reference,owner,rights_status,backup_status,backup_reference,last_restore_check,git_status,sha256,reviewed_date,notes
+ASSET-PROTOTYPE-RECORD,Physical sample - external record,RG-H001,,,UNASSIGNED,UNKNOWN,NOT APPLICABLE TO PHYSICAL OBJECT,,,EXTERNAL,,2026-10-08,Physical prototype exists per founders; location and associated digital files unknown
+ASSET-RESEARCH-RECORD,Existing design/fabric research - location unknown,RG-H001,,,UNASSIGNED,UNKNOWN,UNKNOWN,,,EXTERNAL LOCATION UNKNOWN,,2026-10-08,Some research performed per founders; no files supplied in initial empty workspace

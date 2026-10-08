@@ -1,0 +1,2 @@
+budget_id,campaign_code,period_start,period_end,currency,proposed_ceiling_tnd,approved_ceiling_tnd,committed_tnd,actual_spend_tnd,remaining_tnd,approval_reference,approved_by,owner,status,notes
+AD-BUDGET-DRAFT,CAM-001-FIRST-DROP,,,TND,,,,,,,,UNASSIGNED,NOT APPROVED,Authoritative paid-media ceiling; blank does not authorize spend; remaining equals approved minus committed exposure and uncommitted actuals without double counting

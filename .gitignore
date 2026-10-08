@@ -1,0 +1,60 @@
+# Credentials and sessions: never commit secrets, even to private GitHub.
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+*credentials*.json
+*service-account*.json
+*session*.json
+*cookies*.txt
+*.kdbx
+# Personal and confidential records. Keep only safe folder guidance.
+**/private-records/**
+!**/private-records/README.md
+**/supplier-quotes-private/**
+!**/supplier-quotes-private/README.md
+**/releases/**
+!**/releases/README.md
+**/*signed-agreement*
+**/*identity-document*
+**/*invoice*
+# Local reports may reveal private paths or contain private metadata.
+.local/
+.cache/
+node_modules/
+__pycache__/
+*.pyc
+*.tmp
+*.bak
+*.lock
+~$*
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+# Raw originals, editing sessions, generation outputs and large media live in media backups.
+**/raw/**
+**/projects/**
+**/ai-creation/**/outputs/**
+*.mov
+*.mp4
+*.mkv
+*.avi
+*.wav
+*.aiff
+*.flac
+*.psd
+*.psb
+*.prproj
+*.aep
+*.blend
+*.zip
+*.7z
+# Small approved web previews may be reviewed for Git individually.
+!**/approved/*.mp4
+!**/.gitkeep
+# JPG, PNG, SVG, WEBP and small design/reference assets are NOT globally ignored.
+# Check rights, metadata, size and privacy before staging any permitted asset.

@@ -1,0 +1,2 @@
+generation_id,concept_id,created_date,tool,model_version,prompt_path,reference_path,rights_reference,output_path,authorized_budget_reference,actual_cost_tnd,currency,fidelity_status,reviewer,approval_status,notes
+TEMPLATE,,,,,,,,,,,TND,NOT REVIEWED,,NOT APPROVED,No generations performed; duplicate this template row for authorized work

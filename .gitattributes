@@ -1,0 +1,14 @@
+* text=auto
+*.md text eol=lf
+*.csv text eol=crlf
+*.json text eol=lf
+*.ps1 text eol=crlf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.pdf binary
+*.mp4 binary
+# Git LFS is installed on the setup computer, but NO storage policy is agreed.
+# No active LFS rules. See 10-OPERATIONS/asset-management.md before enabling.

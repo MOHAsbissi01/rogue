@@ -1,0 +1,9 @@
+budget_line_id,category,cost_behavior,currency,proposed_tnd,approved_tnd,committed_tnd,actual_tnd,due_date,source_reference,approval_reference,owner,status,notes
+LAUNCH-01,Samples and testing,Determine allocation,TND,,,,,,,,UNASSIGNED,INPUTS MISSING,Confirm scope and avoid duplication with unit cost or advertising budget
+LAUNCH-02,Identity and artwork,Fixed candidate,TND,,,,,,,,UNASSIGNED,INPUTS MISSING,Confirm scope and avoid duplication with unit cost or advertising budget
+LAUNCH-03,Creative production,Fixed candidate,TND,,,,,,,,UNASSIGNED,INPUTS MISSING,Confirm scope and avoid duplication with unit cost or advertising budget
+LAUNCH-04,Initial production,Inventory / unit cost,TND,,,,,,,,UNASSIGNED,INPUTS MISSING,Confirm scope and avoid duplication with unit cost or advertising budget
+LAUNCH-05,Packaging and inbound freight,Inventory / unit cost,TND,,,,,,,,UNASSIGNED,INPUTS MISSING,Confirm scope and avoid duplication with unit cost or advertising budget
+LAUNCH-06,Store and operations setup,Fixed candidate,TND,,,,,,,,UNASSIGNED,INPUTS MISSING,Confirm scope and avoid duplication with unit cost or advertising budget
+LAUNCH-07,Media spend reference,Acquisition; link central ad budget,TND,,,,,,,,UNASSIGNED,INPUTS MISSING,Confirm scope and avoid duplication with unit cost or advertising budget
+LAUNCH-08,Contingency reserve,Cash reserve; not automatic expense,TND,,,,,,,,UNASSIGNED,INPUTS MISSING,Confirm scope and avoid duplication with unit cost or advertising budget

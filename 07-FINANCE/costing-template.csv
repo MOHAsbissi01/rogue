@@ -1,0 +1,2 @@
+cost_id,product_id,sample_or_spec_version,currency,quantity_basis,production_per_unit,decoration_per_unit,packaging_per_unit,inbound_freight_per_unit,allocated_production_overhead_per_unit,landed_unit_cost,tax_basis,source_reference,quote_date,valid_until,owner,status,notes
+COST-RG-H001-DRAFT,RG-H001,,TND,,,,,,,,,,,,UNASSIGNED,UNKNOWN INPUTS,Blank amounts are unknown; use safe source codes; calculate landed cost only after all five inputs are known

@@ -1,0 +1,2 @@
+allocation_id,finance_budget_id,campaign_code,test_id,platform,currency,proposed_allocation_tnd,approved_allocation_tnd,actual_spend_tnd,approval_reference,owner,status,notes
+TEMPLATE,,CAM-001-FIRST-DROP,,,TND,,,,,UNASSIGNED,NOT APPROVED,Link to central finance budget before allocating; no spend authorized

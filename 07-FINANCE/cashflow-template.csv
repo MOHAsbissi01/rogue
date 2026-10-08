@@ -1,0 +1,2 @@
+period_start,period_end,currency,opening_cash,founder_funding,customer_collections,other_inflows,supplier_payments,packaging_freight_payments,operating_payments,ad_payments,refund_payments,tax_payments,other_outflows,closing_cash,minimum_reserve,headroom,source_reference,owner,status,notes
+,,TND,,,,,,,,,,,,,,,,UNASSIGNED,TEMPLATE - NO CASH DATA,Closing cash = opening + inflows - outflows; headroom = closing - reserve; carry closing to next opening only after reconciliation

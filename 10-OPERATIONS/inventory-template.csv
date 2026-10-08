@@ -1,0 +1,2 @@
+record_id,as_of_date,variant_sku,product_id,collection_id,location_code,opening_units,received_units,shipped_units,returned_resalable_units,adjustment_units,closing_physical_units,reserved_units,quarantined_units,available_units,count_evidence_reference,owner,status,notes
+TEMPLATE,,,RG-H001,DROP-001,,,,,,,,,,,,UNASSIGNED,NO STOCK COUNT,Prototype existence is not saleable stock; closing=opening+received-shipped+resalable returns+signed adjustments; available=closing-reserved-quarantined

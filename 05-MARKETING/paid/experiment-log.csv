@@ -1,0 +1,2 @@
+test_id,campaign_code,hypothesis,variable,variant_a,variant_b,primary_metric,minimum_information,observation_start,observation_end,attribution_window,loss_ceiling_tnd,stop_rule,actual_result,evidence_reference,decision,approver,status
+TEMPLATE,CAM-001-FIRST-DROP,PROPOSAL: compare two truthful hooks with same body,Hook,,,,,,,,,Stop on rights/fidelity/checkout failure or approved ceiling reached,,,NOT DECIDED,,NOT RUN
